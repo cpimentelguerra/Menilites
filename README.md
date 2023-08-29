@@ -3,7 +3,7 @@
 
 3D models of menilites (from Galera, Spain) reconstructed using photogrammetry.
 
-These models can be downloaded for viewing on the computer or consulted online at the following url:
+These models can be downloaded for viewing on the computer or viewed online at the following urls:
 
 - Meni1: [https://cpimentelguerra.com/Menilites/Meni1/Meni1.html](https://cpimentelguerra.com/Menilites/Meni1/Meni1.html)
 
